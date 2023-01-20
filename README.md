@@ -16,7 +16,7 @@
 5. Ajoute le lien de l'icone au fichier index.scss
 6. Npm start et lance le navigateur
 7. Dans le fichier "prénom.scss" modifie l'emplacement du logo jusqu'à la position de ta ville à avec les balises "top:" et "left:" en %
-
+8. Envoie une photo de toi a poil a julien sur discord
 ***
 
 
