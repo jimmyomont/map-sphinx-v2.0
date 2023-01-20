@@ -3,23 +3,41 @@
 
 ***
 
-## Projet map 
+## Bienvenue au projet map-Sphinx
+
+### Petit projet de collaboration entre nous les SPHINX. Tu as le champ libre pour améliorer le code !!!
+Ta principale mission (si tu l'acceptes) est de positionner un tag sur ta région et de renseigner quelques infos 
+!! Attention pas d'informations trop personnelles !!
+Ton prénom, ta région et si tu fais partie des 99.99% des personnes sensées qui disent "pain au chocolat" et non chocolatine (non mais chocolatine sérieux!!!) ou encore qu'en vrai tu veux devenir dévellopeur pour l'argent (non, ça faut pas le dire en vrai). Enfin voilà un petit mot sur toi ou un truc drôle ou pas drôle comme tu le sens
 
 ***
 
 ## Etapes :
 
-1. Copier/coller la balise "button" du fichier "index.html"
-2. Renseigne la balise avec tes informations et choisis ton icone dans les liens proposés
-3. Creer un fichier scss avec un copier/coller du fichier New-name.scss et change le renomer avec ton prénom.scss 
-4. Dans le fichier "index.scss" ajoute "@use './prénom';" 
-5. Ajoute le lien de l'icone au fichier index.scss
-6. Npm start et lance le navigateur
-7. Dans le fichier "prénom.scss" modifie l'emplacement du logo jusqu'à la position de ta ville à avec les balises "top:" et "left:" en %
+1. Dans le fichier "index.html", Copier/coller la balise "button class="new-name""
+
+* Renseigne la balise avec tes informations (sans oublier de changer les New-name, celui de class="New_name" et celui qui précède <img> par ton_prénom)
+
+* choisis ton icone dans les liens proposés et remplace la par celle existante
+
+2. Copier&coller le fichier "New-name.scss" et renomme le par "ton_prénom.scss"
+
+3. Dans ce fichier "ton_prénom.scss" renomme la class ".New-name" par ".ton_prénom"
+
+4. Dans le fichier "index.scss" ajoute "@use './ton_prénom';"
+
+5. Npm start et lance le projet dans le navigateur
+
+6. Dans le fichier "prénom.scss" modifie l'emplacement du logo jusqu'à la position de ta ville avec les balises "top:" et "left:" en %
+
+7. Petite verification dans le navugateur que tout reste en place au retrécissement de la fenêtre, du clique sur ton icone et le tour est joué, plus qu'à commit !!
 
 ***
 
+## Bravo !!! ton (peut-être premier) projet en collaboration est términé :) tout s'est bien passé ?
+*N'hésites pas à voir pour des améliorations plus poussées comme des animations css ou autre*
 
+***
 
 
 ## Les icones link :
@@ -55,13 +73,5 @@ Pour plus d' icones ( respecter le thème SVG noir SVP ;) ):
 
 https://icons8.com/icons/set/egyptian-hieroglyphic 
 
-
-
-
-
-
-
-
-
-
+*Un merci à Julien pour l'aide apporté à l'élaboration du projet*
 
