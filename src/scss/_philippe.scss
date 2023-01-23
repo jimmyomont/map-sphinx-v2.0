@@ -11,6 +11,7 @@
     left: 52%;
     background-color: rgba(255, 255, 255, 0);
     border-color: rgba(255, 255, 255, 0);
+    
 
     @include mixin.medium {
         font-size: 0.7em;
