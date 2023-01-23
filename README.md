@@ -30,7 +30,7 @@ Ton prénom, ta région et si tu fais partie des 99.99% des personnes sensées q
 
 6. Dans le fichier "prénom.scss" modifie l'emplacement du logo jusqu'à la position de ta ville avec les balises "top:" et "left:" en %
 
-7. Petite verification dans le navugateur que tout reste en place au retrécissement de la fenêtre, du clique sur ton icone et le tour est joué, plus qu'à commit !!
+7. Petite verification dans le navigateur que tout reste en place au retrécissement de la fenêtre, du clique sur ton icone et le tour est joué, plus qu'à commit !!
 
 ***
 
