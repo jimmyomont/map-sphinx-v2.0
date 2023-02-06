@@ -1,7 +1,8 @@
 @use './vars';
 @use './mixin';
 
-.boris {
+
+.jeremy {
     display: flex;
     flex-direction: column;
     position: absolute;
@@ -10,8 +11,8 @@
     font-size: 15px;
     background-color:rgba(255, 255, 255, 0);
     border-color: rgba(255, 255, 255, 0);
-    top: 40%;
-    left: 40%;
+    top: 62%;
+    left: 35%;
 
     @include mixin.medium {
         font-size: 0.7em;
